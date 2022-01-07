@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 
 ## Laboratorio de Bioinformatica da UFRJ
-## Aluno: Bernardo Velozo e Yuri
+## Aluno: Bernardo Velozo 
 ## Uso: perl .\Molecular_Weigth.pl .\File_with_ptns.fasta
 
 
